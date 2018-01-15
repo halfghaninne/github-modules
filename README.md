@@ -6,7 +6,7 @@ This project will use [three.js](https://threejs.org) and the [GitHub API](https
 
 > In _2244 Módulos_ Del Río physically registers the passage of time. Over a period of six months, Isabel Del Río set herself the task of making several one-inch thick plaster tablets every day. Her efforts resulted in 2244 tablets, each stamped with the date it was produced. The number of tablets completed each day varied according to the artist’s 'work' or 'free' time. After six months, the artist had filled a considerable physical space with the results of her daily activity. The hours spent in apparently mindless repetition suggest a futile obsession, and also a desire to find a rational order. Although at first glance _2244 Módulos_ may recall a precise and mathematical Minimalist sculpture, the handmade quality of the tablets and the obsessive nature of the project suggest a more existential and personal concern.
 > 
-> - [Blanton Museum of Art](http://collection.blantonmuseum.org/Obj18171?sid=7541&x=237277&port=315)
+> -- [Blanton Museum of Art](http://collection.blantonmuseum.org/Obj18171?sid=7541&x=237277&port=315)
 
 Since seeing the installation in 2014, I return to it often as a reflection on the intersections of productivity, work, progress, humanity, and futility.
 
