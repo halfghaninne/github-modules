@@ -1,18 +1,18 @@
 # GitHub Modules
 
-_Using three.js and the GitHub API to recreate Isabel Del Río's "2244 Módulos" -- but for code._
+_Using three.js and the GitHub API to recreate Isabel Del Río's "2244 Módulos" -- but for code!_
 
-**three.js  •  Node.js**
+**Three.js  •  Node.js**
 
 ## Summary
 
-This project will use [three.js](https://threejs.org) and the [GitHub API](https://developer.github.com/v3/) to recreate the following work by Isabel Del Río:
+This project will use [three.js](https://threejs.org) and the [GitHub API](https://developer.github.com/v3/) to recreate the work below by Isabel Del Río.
 
-<!-- ![2244 Modulos by Isabel Del Rio](https://scontent-lga3-1.xx.fbcdn.net/v/t31.0-8/10380148_10152173534905685_9159277409202252377_o.jpg?oh=35805f51974ae7a82e467ccac9880358&oe=5AE9C1EA | width=600) -->
+<!-- ![2244 Modulos by Isabel Del Rio](https://scontent-lga3-1.xx.fbcdn.net/v/t31.0-8/10380148_10152173534905685_9159277409202252377_o.jpg?oh=35805f51974ae7a82e467ccac9880358&oe=5AE9C1EA | width=610) -->
 
 <img src="https://scontent-lga3-1.xx.fbcdn.net/v/t31.0-8/10380148_10152173534905685_9159277409202252377_o.jpg?oh=35805f51974ae7a82e467ccac9880358&oe=5AE9C1EA" alt="2244 Modulos by Isabel Del Rio" width="600">
 
-The plan is to render a tablet for every `x` lines of code pushed to GitHub. Stacks of tablets will likely each represent a week of work(rather than the artist's original stack-per-day design), purely because of the frequency with which I'm currently pushing up code.
+The plan is to render a tablet for every `x` lines of code pushed to GitHub. Stacks of tablets will likely each represent a week of work (rather than the artist's original stack-per-day design), purely because of the frequency with which I'm currently pushing up code.
 
 ## Why this work
 
