@@ -2,7 +2,7 @@
 
 This project will use [three.js](https://threejs.org) and the [GitHub API](https://developer.github.com/v3/) to recreate the following work by Isabel Del Río:
 
-![2244 Modulos by Isabel Del Rio](https://scontent-lga3-1.xx.fbcdn.net/v/t31.0-8/10380148_10152173534905685_9159277409202252377_o.jpg?oh=35805f51974ae7a82e467ccac9880358&oe=5AE9C1EA)
+![2244 Modulos by Isabel Del Rio](https://scontent-lga3-1.xx.fbcdn.net/v/t31.0-8/10380148_10152173534905685_9159277409202252377_o.jpg?oh=35805f51974ae7a82e467ccac9880358&oe=5AE9C1EA | width=600)
 
 > In _2244 Módulos_ Del Río physically registers the passage of time. Over a period of six months, Isabel Del Río set herself the task of making several one-inch thick plaster tablets every day. Her efforts resulted in 2244 tablets, each stamped with the date it was produced. The number of tablets completed each day varied according to the artist’s 'work' or 'free' time. After six months, the artist had filled a considerable physical space with the results of her daily activity. 
 > 
